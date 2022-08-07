@@ -98,7 +98,7 @@ creates a form
 input tag with type attribute
 -------------------------------------
 <input type = "">
-text, password, eamil, radio
+text, password, eamil, radio, submit etc
 
 label tag
 ------------------
@@ -114,3 +114,28 @@ name attribute can be useful for server-side programming
 name is also important for radio buttons
 
 radio buttons shall have same name to make sure that only one button is being selected
+additionally radio buttons need value attribute, for submitting the form. 
+because we dont have values to submit fro radio button like other input fields
+
+can also use a label with radio button
+
+select box
+-----------------
+label + select + option
+
+text area
+----------------
+its not an input field
+<textarea> tag is used
+it can also use placeholder to add default text
+
+label can also be introduced
+
+placeholder attribute
+------------------------
+this is to set default values for different field in forms
+can be used for text, email, password, radio button, text area etc
+
+submit button
+--------------------
+input field type = "submit"
