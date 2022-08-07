@@ -1,1 +1,66 @@
+HTML
+------------------
+
+use live server extension in vs code 
+
+different tags in html
+------------------------------
+
+p tag
+---------------------
+create a paragraph
+
+strong tag
+-----------------
+use bold
+
+em tag
+-------------
+use italic
+
+small tag
+-----------
+use smalled fontsize
+
+header tags
+-------------
+h1 - h6 : h1 being the highrdt font
+
+ul tag
+-------------
+unordered list
+this uses li tags
+	--------------
+	li tag
+	this creates different items inside the list
+	
+div tag
+-----------
+club multiple tags into one div for readability
+
+span tag
+--------------
+this mainly for css
+what is it actually?
+
+** some elements have only opening, no closing tag
+eg: br tag
+some of them as follows
+
+br tag
+-----------
+break the line
+
+hr tag
+-----------
+horizontal rule
+
+img tag
+---------------
+add images
+it needs a source attribute
+<img src = "">
+
+
+
 
