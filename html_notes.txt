@@ -61,6 +61,28 @@ add images
 it needs a source attribute
 <img src = "">
 
+it can also configured for screen readers using alt attribute
+<img src slt = "">
+
+a tags
+---------------
+anchor tag
+<a href=""> link </a>
+
+blockquote tag
+----------------
+with cite attribute
+not really useful
+
+style attribute
+---------------------
+inline styling
+<p style="color:white"></p>
 
 
+comments
+---------------
+<!------comment-------->
 
+line comment
+<!--- <p>lorem</p>----->
