@@ -139,3 +139,8 @@ can be used for text, email, password, radio button, text area etc
 submit button
 --------------------
 input field type = "submit"
+
+
+required attribute
+--------------------
+use required attribute for inputs in the forms if that value is mandatory for submitting the form
