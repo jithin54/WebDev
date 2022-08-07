@@ -86,3 +86,31 @@ comments
 
 line comment
 <!--- <p>lorem</p>----->
+
+html forms
+-------------
+form uses different input fields
+
+form tag with action attribute
+----------------------------------
+creates a form
+
+input tag with type attribute
+-------------------------------------
+<input type = "">
+text, password, eamil, radio
+
+label tag
+------------------
+uses for attribute to link with an input fields
+input fields id should be used for labels
+so id is a must for input fields to connect to a label
+
+input fields with name
+--------------------------
+name attribute can be useful for server-side programming
+<input type="email" name="email">
+
+name is also important for radio buttons
+
+radio buttons shall have same name to make sure that only one button is being selected
